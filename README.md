@@ -7,7 +7,10 @@ This repository provides the implementation of Semantic-based Unsupervised Frami
 + Versatility: Applicable in both social and computational sciences.
 
 ## Contents
-This repository includes Python script implementing SUFA using semantic relations and dependency parsing algorithms. The project's script in this repository is until the initial version of the methodological innovation. We are further working on advancing the SUFA approach with automating the clustering of framing devices into the broader frames centering an individual entity. The script will be updated as the ongoing project advancing the SUFA is finished.
+This repository includes Python script implementing SUFA using semantic relations and dependency parsing algorithms. The project's script in this repository is until the initial version of the methodological innovation. 
+
+### Update:
+Currently, we are further working on advancing the SUFA approach with automating the clustering process of framing devices into the broader frames centering an individual entity. This repo script will be updated as the ongoing project advancing the SUFA is finished.
 
 # Applications
 SUFA can be used for framing analysis in various domains, including:
