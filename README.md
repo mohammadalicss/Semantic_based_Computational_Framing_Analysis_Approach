@@ -24,6 +24,7 @@ SUFA can be used for framing analysis in various domains, including:
 
 ### Citation: 
 To cite this research, please use:
+
 Ali, M. & Hassan, N. (2023, August). Semantic-based unsupervised framing analysis (SUFA): A
 novel approach for computational framing analysis. Paper presented at the Association for
 Education in Journalism and Mass Communication (AEJMC) conference, D.C., USA.
